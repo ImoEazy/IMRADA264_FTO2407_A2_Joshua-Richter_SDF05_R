@@ -54,13 +54,13 @@ p {
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
 
 .btn-1 {
-    background: rgb(18, 28, 160);
+    background: rgb(76, 82, 170);
     background: linear-gradient(0deg, rgb(19, 29, 157) 0%, rgba(12,25,180,1) 100%);
     border: none;
   }
 .btn-1:hover {
-   background: rgb(92, 93, 141);
-   background: linear-gradient(0deg, rgb(34, 37, 215) 0%, rgb(75, 153, 231) 100%);
+   background: rgb(33, 119, 78);
+   background: linear-gradient(0deg, rgb(38, 41, 214) 0%, rgb(69, 218, 131) 100%);
   }
 
 .btn-2 {
@@ -106,7 +106,7 @@ p {
 
 .btn-3 {
     background: rgb(0,172,238);
-    background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
+    background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgb(185, 67, 168) 100%);
     width: 150px;
     height: 50px;
     line-height: 42px;
